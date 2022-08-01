@@ -1,4 +1,4 @@
-### Welcome Stranger 👋
+### Welcome Friend 👋
 
 <!--
 **ugurkocde/ugurkocde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

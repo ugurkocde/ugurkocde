@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 [![ugurkocde's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurkocde)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=ugurukocde&color=blue&style=for-the-badge)

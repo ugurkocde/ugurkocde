@@ -11,9 +11,10 @@ Things you will find here:
 
 ---
 
-:writing_hand: Writing and publishing @ [ugurkoc.de](https://www.ugurkoc.de)
-
-:open_book: Chat, share, and discuss @ [Twitter](https://twitter.com/UgurKocDe/)
+<p align="center">
+  <b>:writing_hand: Writing and publishing @</b> <a href="https://www.ugurkoc.de">ugurkoc.de</a><br>
+  <b>:open_book: Chat, share, and discuss @ </b> <a href="https://twitter.com/UgurKocDe">Twitter</a>
+</p>
 
 ---
 

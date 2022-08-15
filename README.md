@@ -17,19 +17,8 @@ Things you will find here:
 
 ---
 
-## Stats
-
-![](https://komarev.com/ghpvc/?username=ugurukocde&color=blue&style=for-the-badge)
-
-[![ugurkocde's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurkocde)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ugurkocde&theme=react-dark&custom_title=Activity%20Graph&hide_border=true)](https://github.com/ugurkocde)
 
+
+[![ugurkocde's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurkocde)](https://github.com/anuraghazra/github-readme-stats) ![](https://komarev.com/ghpvc/?username=ugurukocde&color=blue&style=for-the-badge)
 

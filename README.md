@@ -7,10 +7,6 @@ Things you will find here:
 - :shell: Powershell
 - :bar_chart: KQL
 
-Socials:
-
-![Twitter Follow](https://img.shields.io/twitter/follow/ugurkocde?color=%231DA1F2&logo=Twitter&style=for-the-badge)
-
 ---
 
 <p align="center">

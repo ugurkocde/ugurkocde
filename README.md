@@ -3,6 +3,7 @@
 Things you will find here:
 
 - :cloud: Azure
+- :computer: Microsoft Endpoint Manager
 - :blue_car: Automation
 - :shell: Powershell
 - :bar_chart: KQL

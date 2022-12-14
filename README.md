@@ -7,6 +7,9 @@ Things you will find here:
 - :blue_car: Automation
 - :shell: Powershell
 - :bar_chart: KQL
+- DevOps
+- Javascript
+- Python
 
 ---
 

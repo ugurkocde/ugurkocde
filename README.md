@@ -17,7 +17,5 @@ Things you will find here:
 
 ---
 
-[![ugurkocde's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurkocde&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-
 ![](https://komarev.com/ghpvc/?username=ugurukocde&color=grey&style=for-the-badge)
 

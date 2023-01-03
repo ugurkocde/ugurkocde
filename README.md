@@ -3,13 +3,13 @@
 Things you will find here:
 
 - :cloud: Azure
-- :computer: Microsoft Endpoint Manager
+- :computer: Intune
 - :blue_car: Automation
 - :shell: Powershell
 - :bar_chart: KQL
-- DevOps
-- Javascript
-- Python
+- :wrench: DevOps
+- :pencil2: Javascript
+- :pencil2: Python
 
 ---
 

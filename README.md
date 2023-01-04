@@ -10,6 +10,7 @@ Things you will find here:
 - :wrench: DevOps
 - :pencil2: Javascript
 - :pencil2: Python
+- and more ...
 
 ---
 

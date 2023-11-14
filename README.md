@@ -1,4 +1,4 @@
-# Welcome Friend 👋
+# Welcome 👋
 
 Things you will find here:
 

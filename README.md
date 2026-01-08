@@ -29,22 +29,6 @@
 ### Analytics
 - ![KQL](https://img.shields.io/badge/KQL-00B4E4?style=flat-square&logo=azure-data-explorer&logoColor=white) Log Analytics & Monitoring
 
-## 📊 GitHub Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ugurkocde&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
-
-## 👥 Visitor Count
-![](https://komarev.com/ghpvc/?username=ugurukocde&color=grey&style=for-the-badge)
 
 ## 📫 Get in Touch
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ugurkocde/) or [Twitter](https://twitter.com/UgurKocDe) for collaborations or discussions!
-
----
-
-If you find my work helpful, consider:
-
-<a href="https://www.buymeacoffee.com/ugurkocde">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ugurkocde&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" />
-</a>
